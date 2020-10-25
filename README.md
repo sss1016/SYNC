@@ -1,6 +1,6 @@
 # SYNC_ZQ
 # https://github.com/Sunert/Scripts
-# PAT f997e7b3b949c568b73bdd3d9a3a5eab5e05e517
+# PAT 671005d4d57e548f5d88ee180a91123b2b4edb46
 
 # File: .github/workflows/repo-sync.yml
 name: sync-lxk0301-scripts
