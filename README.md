@@ -1,4 +1,4 @@
-# SYNC_ZQ
+# SYNC
 # https://github.com/Sunert/Scripts
 
 
