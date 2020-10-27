@@ -1,5 +1,4 @@
 # SYNC
-# https://github.com/Sunert/Scripts
 
 
 # File: .github/workflows/repo-sync.yml
